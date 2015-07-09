@@ -3,6 +3,7 @@ console.log('aaaaa');
 console.log('bbb');
 "use strict"
 console.log('开始');
+console.log('结束');
 var dns = require('native-dns');
 var ipaddr = require('ipaddr.js');
 var path = require('path');
