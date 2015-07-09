@@ -1,4 +1,4 @@
-ggggg
+console.log('ggggg');
 "use strict"
 console.log('开始');
 var dns = require('native-dns');
